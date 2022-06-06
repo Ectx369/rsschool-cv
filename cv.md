@@ -5,7 +5,6 @@
 Hello! My name is Ussen, how do you do? At now i'm learning coure of RSSchool #stage0.
 It's so interesting, also i like sport and run every day at 6:00 o'clock. Programing it's so interesting, i guess i will continue develope. Good luck me!
 
-#
 
 ## My skills
 
